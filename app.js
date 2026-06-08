@@ -1,4 +1,4 @@
-const API_URL = "https://house-video-ai.onrender.com"; // 替换成 Render 后端地址
+const API_URL = "https://house-video-ai.onrender.com/analyze"; // 替换成 Render 后端地址
 
 const fileInput = document.getElementById("file");
 const uploadBtn = document.getElementById("uploadBtn");
